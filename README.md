@@ -11,6 +11,7 @@ Delete Tasks: Remove tasks from the list once they are completed or no longer ne
 Mark as Complete: Tasks can be marked as completed, and they will be visually distinguished.
 Persistent Storage: The application uses local storage to save tasks, ensuring they persist even after the browser is closed.
 Responsive Design: The interface is responsive, making it usable on desktops, tablets, and smartphones.
+
 Technologies Used
 HTML5: For structuring the application.
 CSS3: For styling the interface and ensuring a responsive layout.
